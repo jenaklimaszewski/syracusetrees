@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <title>Syracuse City Boundary</title>
+                <onlink>https://services.arcgis.com/uDTUpUPbk8X8mXwl/arcgis/rest/services/Syracuse_City_Boundary/FeatureServer</onlink>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>The TIGER/Line Files are shapefiles and related database files (.dbf) that are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB).  The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line File is designed to stand alone as an independent data set, or they can be combined to cover the entire nation.  Census tracts are small, relatively permanent statistical subdivisions of a county or equivalent entity, and were defined by local participants as part of the 2010 Census Participant Statistical Areas Program.  The Census Bureau delineated the census tracts in situations where no local participant existed or where all the potential participants declined to participate.  The primary purpose of census tracts is to provide a stable set of geographic units for the presentation of census data and comparison back to previous decennial censuses.  Census tracts generally have a population size between 1,200 and 8,000 people, with an optimum size of 4,000 people.  When first delineated, census tracts were designed to be homogeneous with respect to population characteristics, economic status, and living conditions.  The spatial size of census tracts varies widely depending on the density of settlement.  Physical changes in street patterns caused by highway construction, new development, and so forth, may require boundary revisions.  In addition, census tracts occasionally are split due to population growth, or combined as a result of substantial population decline.  Census tract boundaries generally follow visible and identifiable features.  They may follow legal boundaries such as minor civil division (MCD) or incorporated place boundaries in some States and situations to allow for census tract-to-governmental unit relationships where the governmental boundaries tend to remain unchanged between censuses.  State and county boundaries always are census tract boundaries in the standard census geographic hierarchy.  In a few rare instances, a census tract may consist of noncontiguous areas.  These noncontiguous areas may occur where the census tracts are coextensive with all or parts of legal entities that are themselves noncontiguous.  For the 2010 Census, the census tract code range of 9400 through 9499 was enforced for census tracts that include a majority American Indian population according to Census 2000 data and/or their area was primarily covered by federally recognized American Indian reservations and/or off-reservation trust lands; the code range 9800 through 9899 was enforced for those census tracts that contained little or no population and represented a relatively large special land use area such as a National Park, military installation, or a business/industrial park; and the code range 9900 through 9998 was enforced for those census tracts that contained only water area, no land area. </abstract>
+            <purpose>Shapefile boundary of the City of Syracuse from the U.S. Census Bureau.</purpose>
+        </descript>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>boundaries</themekey>
+            </theme>
+        </keywords>
+        <accconst>Other Constraints</accconst>
+        <useconst>The TIGER/Line Shapefile products are not copyrighted however TIGER/Line and Census TIGER are registered trademarks of the U.S. Census Bureau.  These products are free to use in a product or publication, however acknowledgement must be given to the U.S. Census Bureau as the source.The boundary information in the TIGER/Line Shapefiles are for statistical data collection and tabulation purposes only; their depiction and designation for statistical purposes does not constitute a determination of jurisdictional authority or rights of ownership or entitlement and they are not legal land descriptions.Coordinates in the TIGER/Line shapefiles have six implied decimal places, but the positional accuracy of these coordinates is not as great as the six decimal places suggest.</useconst>
+        <datacred>U.S. Census Bureau</datacred>
+    </idinfo>
+    <eainfo>
+        <detailed>
+            <enttyp>
+                <enttypl>FID</enttypl>
+                <enttypd>Faces Indentifier</enttypd>
+            </enttyp>
+        </detailed>
+        <detailed>
+            <enttyp>
+                <enttypl>FID_Syracu</enttypl>
+                <enttypd>Faces Identifier for Syracuse</enttypd>
+            </enttyp>
+        </detailed>
+        <detailed>
+            <enttyp>
+                <enttypl>STATEFP10</enttypl>
+                <enttypd>2010 Census state FIPS code</enttypd>
+            </enttyp>
+        </detailed>
+        <detailed>
+            <enttyp>
+                <enttypl>COUNTYFP10</enttypl>
+                <enttypd>2010 Census county FIPS code</enttypd>
+            </enttyp>
+        </detailed>
+        <detailed>
+            <enttyp>
+                <enttypl>TRACTCE</enttypl>
+                <enttypd>Tribal Census Tract Code</enttypd>
+            </enttyp>
+        </detailed>
+        <detailed>
+            <enttyp>
+                <enttypl>GEOID10</enttypl>
+                <enttypd>2010 Census urban area identifier; 2010 Census urban area code</enttypd>
+            </enttyp>
+        </detailed>
+        <detailed>
+            <enttyp>
+                <enttypl>NAME10</enttypl>
+                <enttypd>2010 Census urban area name</enttypd>
+            </enttyp>
+        </detailed>
+        <detailed>
+            <enttyp>
+                <enttypl>NAMELSAD10</enttypl>
+                <enttypd>2010 Census name and the translated legal/statistical area description for urban area</enttypd>
+            </enttyp>
+        </detailed>
+        <detailed>
+            <enttyp>
+                <enttypl>MTFCC10</enttypl>
+                <enttypd>MAF/TIGER Feature Class Code (G3500)</enttypd>
+            </enttyp>
+        </detailed>
+        <detailed>
+            <enttyp>
+                <enttypl>FUNCSTAT10</enttypl>
+                <enttypd>2010 Census functional status</enttypd>
+            </enttyp>
+        </detailed>
+        <detailed>
+            <enttyp>
+                <enttypl>ALAND10</enttypl>
+                <enttypd>2010 Census land area</enttypd>
+            </enttyp>
+        </detailed>
+        <detailed>
+            <enttyp>
+                <enttypl>AWATER10</enttypl>
+                <enttypd>2010 Census water area</enttypd>
+            </enttyp>
+        </detailed>
+        <detailed>
+            <enttyp>
+                <enttypl>INTPTLAT10</enttypl>
+                <enttypd>2010 Census latitude of the internal point</enttypd>
+            </enttyp>
+        </detailed>
+        <detailed>
+            <enttyp>
+                <enttypl>INTPTLON10</enttypl>
+                <enttypd>2010 Census longitude of the internal point</enttypd>
+            </enttyp>
+        </detailed>
+        <detailed>
+            <enttyp>
+                <enttypl>TractID</enttypl>
+                <enttypd>Census Tract ID</enttypd>
+            </enttyp>
+        </detailed>
+    </eainfo>
+    <metainfo>
+        <metd>20221108</metd>
+        <metc>
+            <cntinfo>
+                <!--no contact person or organization name available-->
+            </cntinfo>
+        </metc>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
