@@ -20,5 +20,4 @@ It combines spatial data analysis, socioeconomic data, and visualization techniq
 - censusdata
 
 ## Plots
-![bivariateplot](https://github.com/user-attachments/assets/98a03854-9dd3-4363-b513-9ca86a456f5e)
-![scatterplot](https://github.com/user-attachments/assets/61ddaef6-93df-48ae-a872-4363d00fa3e9)
+![bivariateplot](https://github.com/user-attachments/assets/98a03854-9dd3-4363-b513-9ca86a456f5e) ![scatterplot](https://github.com/user-attachments/assets/61ddaef6-93df-48ae-a872-4363d00fa3e9)
